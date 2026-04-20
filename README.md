@@ -1,2 +1,2 @@
 Full Stack Student application tracker
-Node.js, React
+Node.js, React, Neon Database
